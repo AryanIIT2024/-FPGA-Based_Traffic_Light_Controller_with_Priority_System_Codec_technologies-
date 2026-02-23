@@ -136,8 +136,8 @@ It is ideal for beginners learning **Verilog, FPGA design, and digital logic sys
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Aryan Srivastava**
 
 ---
 
-⭐ *If you found this project useful, consider starring the repository!*
+
