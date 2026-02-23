@@ -1,3 +1,8 @@
+// codes for simulation
+
+
+
+
 module traffic_light_contoller(
 input clk,rst,
 output reg[2:0] light_M1,
@@ -53,7 +58,7 @@ endcase
 end
 end
 
-always @(*)
+    always @(*) //for all cases 
 begin
 case(p_state)
 
